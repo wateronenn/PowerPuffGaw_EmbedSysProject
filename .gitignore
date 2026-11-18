@@ -4,5 +4,7 @@
 __pycache__/
 *.sqlite3
 *.sqlite3-*
-/system/node_modules/
+/system/dashboard/node_modules/
 .next/
+/system/simulator/
+.txt
